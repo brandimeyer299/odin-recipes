@@ -1,0 +1,38 @@
+.title {
+    outline-style: dotted;
+    margin-right: 615px;
+    font-size: 50px;
+    color: #033145
+   
+}
+
+.recipe-title {
+    font-size: 50px;
+    color: #033145;
+    outline-style: dotted;
+    text-decoration: wavy;
+}
+   
+
+
+body {
+    font-size: 22px;
+    background-color: #e7f8ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tip {
+    color: #520214;
+}
+
+#fudge {
+margin-right: 770px;
+}
+
+#bfastp {
+    margin-right: 465px;
+}
+
+#rasp {
+    margin-right: 305px;
+}
